@@ -1,0 +1,66 @@
+﻿@model FinalDutExpressSystem.Models.Chemical_EngineeringModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Chemical_EngineeringModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CourseName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CourseName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StudentNo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StudentNo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Mathematics)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Mathematics)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Chemistry)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Chemistry)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EngineeringScience)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EngineeringScience)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ChemicalEngineering)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ChemicalEngineering)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.StudentNo }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

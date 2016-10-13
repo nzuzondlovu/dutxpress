@@ -1,0 +1,70 @@
+﻿@model IEnumerable<FinalDutExpressSystem.Models.Aerospace_StudiesModel>
+
+@{
+    ViewBag.Title = "Index3";
+}
+
+<h2>Index3</h2>
+
+<p>
+    @using (Html.BeginForm())
+    {
+        <div class="form-group">
+            @Html.Label("Enter Student Number", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBox("studentNo")
+                <input type="submit" value="Search" class="btn btn-success" />
+
+            </div>
+        </div>
+    }
+</p>
+<table class=" table-responsive table table-bordered table-hover table-striped">
+    <tr class=" success">
+        <th>
+            @Html.DisplayNameFor(model => model.CourseName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StudentNo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Communication_Skills)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Aviation)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Leadership_Studies)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Security_Studies)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr class=" danger">
+            <td>
+                @Html.DisplayFor(modelItem => item.CourseName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudentNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Communication_Skills)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Aviation)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Leadership_Studies)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Security_Studies)
+            </td>
+
+        </tr>
+    }
+
+</table>

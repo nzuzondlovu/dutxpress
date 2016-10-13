@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "Popup";
+}
+
+<h2>Popup</h2>
+
+@using (Html.BeginForm())
+{
+    <div class="form-group">
+        @Html.Label("Find By Student Number", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.TextBox("searchString")
+            <input type="submit" value="Search" class="btn btn-success" />
+
+        </div>
+    </div>
+
+}

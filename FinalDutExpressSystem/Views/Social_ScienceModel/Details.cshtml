@@ -1,0 +1,66 @@
+﻿@model FinalDutExpressSystem.Models.Social_ScienceModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Social_ScienceModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Course)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Course)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StudentNo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StudentNo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Anthropology)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Anthropology)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Philosophy)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Philosophy)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Psychology)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Psychology)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Sociology)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Sociology)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

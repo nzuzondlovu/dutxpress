@@ -1,0 +1,48 @@
+﻿@model FinalDutExpressSystem.Models.itsModel
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>View Results In One Click</h1>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="col-md-10">
+            @Html.DropDownListFor(model => model.CourseName, ViewBag.CoursesList as List<SelectListItem>, "Select Course", new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.CourseName, "", new { @class = "text-danger" })
+        </div>
+
+            <div class="form-group">
+
+            </div>
+            <input type="submit" value="View Results" class="btn btn-success " />
+    }
+        
+    
+
+
+
+
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2></h2>
+        <p>
+            
+        </p>
+        <p><a class="btn btn-default" href="https://thinklearnzone.dut.ac.za/">BlackBoard &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2></h2>
+        <p></p>
+        <p><a class="btn btn-default" href="https://mars.dut.ac.za/pls/prodi03/w99pkg.mi_login">iEnabler &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2></h2>
+        <p></p>
+        <p><a class="btn btn-default" href="http://library.dut.ac.za/">Library &raquo;</a></p>
+    </div>
+</div>

@@ -1,0 +1,70 @@
+﻿@model IEnumerable<FinalDutExpressSystem.Models.Social_ScienceModel>
+
+@{
+    ViewBag.Title = "Index2";
+}
+
+<h2>Index2</h2>
+
+<p>
+    @using (Html.BeginForm())
+    {
+        <div class="form-group">
+            @Html.Label("Enter Student Number", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBox("studentNo")
+                <input type="submit" value="Search" class="btn btn-success" />
+
+            </div>
+        </div>
+    }
+</p>
+<table class=" table-responsive table table-bordered table-hover table-striped">
+    <tr class=" success">
+        <th>
+            @Html.DisplayNameFor(model => model.Course)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StudentNo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Anthropology)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Philosophy)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Psychology)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Sociology)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr class=" danger">
+            <td>
+                @Html.DisplayFor(modelItem => item.Course)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudentNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Anthropology)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Philosophy)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Psychology)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Sociology)
+            </td>
+
+        </tr>
+    }
+
+</table>

@@ -1,0 +1,66 @@
+﻿@model FinalDutExpressSystem.Models.itsModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>itsModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CourseName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CourseName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StudentNo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StudentNo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Mark1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Mark1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Mark2)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Mark2)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Mark3)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Mark3)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Mark4)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Mark4)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

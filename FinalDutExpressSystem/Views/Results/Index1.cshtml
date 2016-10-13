@@ -1,0 +1,70 @@
+﻿@model IEnumerable<FinalDutExpressSystem.Models.Chemical_EngineeringModel>
+
+@{
+    ViewBag.Title = "Index1";
+}
+
+<h2>Index1</h2>
+
+<p>
+    @using (Html.BeginForm())
+    {
+        <div class="form-group">
+            @Html.Label("Enter Student Number", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBox("studentNo")
+                <input type="submit" value="Search" class="btn btn-success" />
+
+            </div>
+        </div>
+    }
+</p>
+<table class=" table-responsive table table-bordered table-hover table-striped">
+    <tr class=" success">
+        <th>
+            @Html.DisplayNameFor(model => model.CourseName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StudentNo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Mathematics)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Chemistry)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EngineeringScience)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ChemicalEngineering)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr class=" danger">
+            <td>
+                @Html.DisplayFor(modelItem => item.CourseName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudentNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Mathematics)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Chemistry)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EngineeringScience)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ChemicalEngineering)
+            </td>
+
+        </tr>
+    }
+
+</table>

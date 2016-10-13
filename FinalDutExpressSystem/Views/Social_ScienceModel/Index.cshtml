@@ -1,0 +1,75 @@
+﻿@model IEnumerable<FinalDutExpressSystem.Models.Social_ScienceModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+@using (Html.BeginForm())
+{
+    <div class="form-group">
+        @Html.Label("Find By Student Number", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.TextBox("searchString")
+            <input type="submit" value="Search" class="btn btn-success" />
+
+        </div>
+    </div>
+}
+<table class=" table-responsive table table-bordered table-hover table-striped">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Course)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StudentNo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Anthropology)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Philosophy)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Psychology)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Sociology)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr class="danger">
+            <td>
+                @Html.DisplayFor(modelItem => item.Course)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudentNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Anthropology)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Philosophy)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Psychology)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Sociology)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.id }) |
+                @Html.ActionLink("Details", "Details", new { id = item.id }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.id })
+            </td>
+        </tr>
+    }
+
+</table>

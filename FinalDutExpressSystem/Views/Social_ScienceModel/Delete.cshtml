@@ -1,0 +1,72 @@
+﻿@model FinalDutExpressSystem.Models.Social_ScienceModel
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Social_ScienceModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Course)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Course)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StudentNo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StudentNo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Anthropology)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Anthropology)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Philosophy)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Philosophy)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Psychology)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Psychology)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Sociology)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Sociology)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

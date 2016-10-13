@@ -1,0 +1,426 @@
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\csc.exe
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\vbc.exe
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\FinalDutExpressSystem.dll.config
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\FinalDutExpressSystem.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\FinalDutExpressSystem.pdb
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Antlr3.Runtime.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\EntityFramework.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Newtonsoft.Json.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Owin.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.Helpers.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.Mvc.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.Optimization.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.Razor.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.WebPages.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\WebGrease.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.Helpers.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.Mvc.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.Optimization.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.Razor.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.WebPages.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Antlr3.Runtime.pdb
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Newtonsoft.Json.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\EntityFramework.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\obj\Debug\FinalDutExpressSystem.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\obj\Debug\FinalDutExpressSystem.pdb
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\obj\Debug\FinalDutExpressSystem.Migrations.InitialCreate.resources
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\obj\Debug\FinalDutExpressSystem.csproj.GenerateResource.Cache
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\obj\Debug\FinalDutExpressSystem.csprojResolveAssemblyReference.cache
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\csc.exe
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\vbc.exe
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\FinalDutExpressSystem.dll.config
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\FinalDutExpressSystem.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\FinalDutExpressSystem.pdb
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\Antlr3.Runtime.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\EntityFramework.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\Newtonsoft.Json.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\Owin.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.Helpers.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.Mvc.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.Optimization.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.Razor.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.WebPages.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\WebGrease.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.Helpers.xml
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.Mvc.xml
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.Optimization.xml
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.Razor.xml
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.WebPages.xml
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\Antlr3.Runtime.pdb
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\Newtonsoft.Json.xml
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\EntityFramework.xml
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.xml
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\obj\Debug\FinalDutExpressSystem.csprojResolveAssemblyReference.cache
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\obj\Debug\FinalDutExpressSystem.Migrations.InitialCreate.resources
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\obj\Debug\FinalDutExpressSystem.csproj.GenerateResource.Cache
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\obj\Debug\FinalDutExpressSystem.dll
+C:\Users\21422270\Documents\FinalDutExpressSystem\FinalDutExpressSystem\obj\Debug\FinalDutExpressSystem.pdb
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\csc.exe
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\vbc.exe
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\FinalDutExpressSystem.dll.config
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\FinalDutExpressSystem.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\FinalDutExpressSystem.pdb
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\Antlr3.Runtime.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\EntityFramework.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\Newtonsoft.Json.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\Owin.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.Helpers.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.Mvc.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.Optimization.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.Razor.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.WebPages.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\WebGrease.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.Helpers.xml
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.Mvc.xml
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.Optimization.xml
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.Razor.xml
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.WebPages.xml
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\Antlr3.Runtime.pdb
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\Newtonsoft.Json.xml
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\EntityFramework.xml
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.xml
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\obj\Debug\FinalDutExpressSystem.csprojResolveAssemblyReference.cache
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\obj\Debug\FinalDutExpressSystem.Migrations.InitialCreate.resources
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\obj\Debug\FinalDutExpressSystem.csproj.GenerateResource.Cache
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\obj\Debug\FinalDutExpressSystem.dll
+C:\Users\thandaza sec\Videos\FinalDutExpressSystem\FinalDutExpressSystem\obj\Debug\FinalDutExpressSystem.pdb
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\csc.exe
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\vbc.exe
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\FinalDutExpressSystem.dll.config
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\FinalDutExpressSystem.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\FinalDutExpressSystem.pdb
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Antlr3.Runtime.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\EntityFramework.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Newtonsoft.Json.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Owin.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.Helpers.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.Mvc.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.Optimization.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.Razor.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.WebPages.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\WebGrease.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.Helpers.xml
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.Mvc.xml
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.Optimization.xml
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.Razor.xml
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.WebPages.xml
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Antlr3.Runtime.pdb
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Newtonsoft.Json.xml
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\EntityFramework.xml
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.xml
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\obj\Debug\FinalDutExpressSystem.csprojResolveAssemblyReference.cache
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\obj\Debug\FinalDutExpressSystem.Migrations.InitialCreate.resources
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\obj\Debug\FinalDutExpressSystem.csproj.GenerateResource.Cache
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\obj\Debug\FinalDutExpressSystem.dll
+C:\Users\21422270\Desktop\FinalDutExpressSystem\FinalDutExpressSystem\obj\Debug\FinalDutExpressSystem.pdb
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\roslyn\csc.exe
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\roslyn\vbc.exe
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\FinalDutExpressSystem.dll.config
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\FinalDutExpressSystem.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\FinalDutExpressSystem.pdb
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Antlr3.Runtime.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\EntityFramework.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Newtonsoft.Json.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Owin.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\System.Web.Helpers.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\System.Web.Mvc.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\System.Web.Optimization.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\System.Web.Razor.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\System.Web.WebPages.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\WebGrease.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\System.Web.Helpers.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\System.Web.Mvc.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\System.Web.Optimization.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\System.Web.Razor.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\System.Web.WebPages.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Antlr3.Runtime.pdb
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Newtonsoft.Json.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\EntityFramework.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\obj\Debug\FinalDutExpressSystem.csprojResolveAssemblyReference.cache
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\obj\Debug\FinalDutExpressSystem.Migrations.InitialCreate.resources
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\obj\Debug\FinalDutExpressSystem.csproj.GenerateResource.Cache
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\obj\Debug\FinalDutExpressSystem.dll
+C:\Users\thandaza sec\Desktop\FinalDutExpressSystem Presentation\FinalDutExpressSystem\obj\Debug\FinalDutExpressSystem.pdb
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\roslyn\csc.exe
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\roslyn\System.Collections.Immutable.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\roslyn\System.Reflection.Metadata.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\roslyn\vbc.exe
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\roslyn\VBCSCompiler.exe
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\roslyn\VBCSCompiler.exe.config
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\FinalDutExpressSystem.dll.config
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\FinalDutExpressSystem.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\FinalDutExpressSystem.pdb
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Antlr3.Runtime.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\EntityFramework.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\EntityFramework.SqlServer.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.Core.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Cookies.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.Security.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Facebook.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Google.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.Security.OAuth.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Twitter.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Newtonsoft.Json.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Owin.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\System.Web.Helpers.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\System.Web.Mvc.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\System.Web.Optimization.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\System.Web.Razor.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\System.Web.WebPages.Deployment.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\System.Web.WebPages.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\System.Web.WebPages.Razor.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\WebGrease.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\System.Web.Helpers.xml
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\System.Web.Mvc.xml
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\System.Web.Optimization.xml
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\System.Web.Razor.xml
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\System.Web.WebPages.xml
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\System.Web.WebPages.Deployment.xml
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\System.Web.WebPages.Razor.xml
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Antlr3.Runtime.pdb
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Newtonsoft.Json.xml
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\EntityFramework.xml
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\EntityFramework.SqlServer.xml
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.Core.xml
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.xml
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.Security.xml
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Facebook.xml
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Cookies.xml
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.Security.OAuth.xml
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Google.xml
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.Security.Twitter.xml
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\obj\Debug\FinalDutExpressSystem.csprojResolveAssemblyReference.cache
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\obj\Debug\FinalDutExpressSystem.Migrations.InitialCreate.resources
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\obj\Debug\FinalDutExpressSystem.csproj.GenerateResource.Cache
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\obj\Debug\FinalDutExpressSystem.dll
+E:\New folder\FinalDutExpressSystem Presentation\FinalDutExpressSystem\obj\Debug\FinalDutExpressSystem.pdb
