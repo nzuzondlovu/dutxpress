@@ -75,6 +75,7 @@ namespace FinalDutExpressSystem.Models
         public string Surname { get; set; }
         public string CourseName { get; set; }
         public string Name { get; set; }
+        public string UserName { get; set; }
         [Required]
         [EmailAddress]
         [Display(Name = "Email")]
