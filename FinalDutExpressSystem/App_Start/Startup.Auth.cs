@@ -54,9 +54,9 @@ namespace FinalDutExpressSystem
             //   consumerKey: "",
             //   consumerSecret: "");
 
-            //app.UseFacebookAuthentication(
-            //   appId: "",
-            //   appSecret: "");
+            app.UseFacebookAuthentication(
+               appId: "535719873290229",
+               appSecret: "3e3dc290e04d1e06fd27f24c266e690d");
 
             //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
             //{
