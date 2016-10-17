@@ -71,11 +71,33 @@ namespace FinalDutExpressSystem.Models
 
     public class RegisterViewModel
     {
+        [Required]
+        [StringLength(8, ErrorMessage ="The {0} must be only {2} characters long.", MinimumLength = 8)]
+        [Display(Name="Student Number")]
+        [DataType(DataType.Text)]
         public string StudentNo { get; set; }
+
+        [Required]
+        [StringLength(35, ErrorMessage ="Surname cannot be between 5 and 35 characters.", MinimumLength = 5)]
+        [Display(Name = "Surname")]
+        [DataType(DataType.Text)]
         public string Surname { get; set; }
+
+        [Required]
         public string CourseName { get; set; }
+
+        [Required]
+        [StringLength(25, ErrorMessage = "Name cannot be between 5 and 25 characters.", MinimumLength = 5)]
+        [Display(Name = "Name")]
+        [DataType(DataType.Text)]
         public string Name { get; set; }
+
+        [Required]
+        [StringLength(10, ErrorMessage = "Username cannot be between 4 and 10 characters.", MinimumLength = 4)]
+        [Display(Name = "Username")]
+        [DataType(DataType.Text)]
         public string UserName { get; set; }
+
         [Required]
         [EmailAddress]
         [Display(Name = "Email")]
