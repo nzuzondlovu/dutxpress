@@ -198,14 +198,14 @@ namespace FinalDutExpressSystem.Controllers
         {
             if (ModelState.IsValid)
             {
-            
+
                 var user = new ApplicationUser { UserName = model.Email, Email = model.Email };
                 var result = await UserManager.CreateAsync(user, model.Password);
                 if (result.Succeeded)
                 {
-                    
-                    
-                    await SignInManager.SignInAsync(user, isPersistent:false, rememberBrowser:false);
+
+
+                    await SignInManager.SignInAsync(user, isPersistent: false, rememberBrowser: false);
 
 
                     //string code = await UserManager.GenerateEmailConfirmationTokenAsync(user.Id);
@@ -215,24 +215,9 @@ namespace FinalDutExpressSystem.Controllers
 
                     //return View("DisplayEmail");
                     return RedirectToAction("Index", "Home");
-                   
+
                 }
-                if (m.CourseName == "Information Technology")
-                {
-                    return RedirectToAction("Index", "Results");
-                }
-                if (m.CourseName == "Chemical Engineering")
-                {
-                    return RedirectToAction("Index1", "Results");
-                }
-                if (m.CourseName == "Social Science")
-                {
-                    return RedirectToAction("Index2", "Results");
-                }
-                if (m.CourseName == "Aerospace Studies")
-                {
-                    return RedirectToAction("Index3", "Results");
-                }
+
                 AddErrors(result);
             }
 
